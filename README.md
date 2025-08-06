@@ -25,15 +25,20 @@ Dashboard Overview
 ![PICTURE 1](Screenshots/2.jpeg)
 
 🛠️ Built With
+
 Power BI Desktop – Data visualization and dashboard design
 .pbix File – Exploring Mental Health Data.pbix included for review and editing
+
 🛠 How to Use This Project
+
 Download the .pbix file from this repository.
 Open it using Power BI Desktop (you can download it from the Power BI website).
 View and explore the dashboard.
 You can filter the data, edit visuals, or add your own data if you want.
 
 🧑‍💻 Author
+
 This project is created by Tanisha Madisetty.
+
 Feel free to check out my other work or connect with me!
 
