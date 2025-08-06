@@ -15,9 +15,9 @@ This project presents an interactive Power BI dashboard that explores mental hea
 Here are some visuals from the dashboard:
 
 Dashboard Overview
-Screenshorts/1.jpeg
+![PICTURE 2](Screenshots/1.jpeg)
 
-Screenshorts/2.jpeg
+![PICTURE 1](Screenshots/2.jpeg)
 
 🛠️ Built With
 Power BI Desktop – Data visualization and dashboard design
