@@ -11,6 +11,12 @@ This project presents an interactive Power BI dashboard that explores mental hea
 > Treatment Seeking Behavior: Analysis of how many individuals sought treatment and the factors influencing that decision.
 > Interactive Filters: Drill down by region, company size, gender, and other filters for customized exploration.
 
+📷 Screenshots
+Here are some visuals from the dashboard:
+
+Dashboard Overview
+
+
 🛠️ Built With
 Power BI Desktop – Data visualization and dashboard design
 .pbix File – Exploring Mental Health Data.pbix included for review and editing
