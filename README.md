@@ -5,11 +5,11 @@ Mental Health Insights Dashboard (Power BI)
 This project presents an interactive Power BI dashboard that explores mental health data collected through surveys. The dashboard provides valuable insights into mental health prevalence, workplace support, and demographic trends, with a focus on tech industry professionals.
 
 📊 Features
-> Mental Health Prevalence: Overview of the percentage of respondents who reported mental health issues.
-> Workplace Support Analysis: Breakdown of employer-provided mental health benefits and workplace attitudes.
-> Demographic Insights: Visualization of mental health trends by age, gender, country, and role.
-> Treatment Seeking Behavior: Analysis of how many individuals sought treatment and the factors influencing that decision.
-> Interactive Filters: Drill down by region, company size, gender, and other filters for customized exploration.
+*Mental Health Prevalence: Overview of the percentage of respondents who reported mental health issues.
+*Workplace Support Analysis: Breakdown of employer-provided mental health benefits and workplace attitudes.
+*Demographic Insights: Visualization of mental health trends by age, gender, country, and role.
+*Treatment Seeking Behavior: Analysis of how many individuals sought treatment and the factors influencing that decision.
+*Interactive Filters: Drill down by region, company size, gender, and other filters for customized exploration.
 
 📷 Screenshots
 Here are some visuals from the dashboard:
